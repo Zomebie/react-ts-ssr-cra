@@ -1,4 +1,4 @@
-{
+{ // webpack의 ts-loader가 보는 파일
   "compilerOptions": {
     "target": "es5",
     "lib": [
